@@ -1,0 +1,29 @@
+{
+  "name": "t1-node-plugin",
+  "version": "1.0.0",
+  "description": "Tugas 1 Node.js plugin dengan chalk, cowsay, dan figlet.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadisfr25/T1-Node-Plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadisfr25/T1-Node-Plugin/issues"
+  },
+  "homepage": "https://github.com/wadisfr25/T1-Node-Plugin#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^6.0.0",
+    "cowsay": "^1.6.0",
+    "dayjs": "^1.11.23",
+    "figlet": "^1.11.4",
+    "gradient-string": "^3.0.0"
+  }
+}
